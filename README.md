@@ -2,7 +2,7 @@
   <a href="http://nestjs.com/" target="blank"><img src="http://maratona.fullcycle.com.br/public/img/logo-maratona.png"/></a>
 </p>
 
-# [Desafio 1](https://hub.docker.com/r/llbarbosas/maratona-fullcycle-desafio1)
+# [Desafio 1](https://hub.docker.com/r/llbarbosas/maratona-fullcycle-desafio1) :white_check_mark:
 
 ## Instalação e preparação do ambiente
 
@@ -20,7 +20,7 @@ O primeiro passo para que você consiga acompanhar muito bem a Maratona é ter o
 > Dica Importante: Desenvolvemos um Guia Rápido de Docker. Ele está no [Canal do Telegram](https://t.me/devfullcycle). Para acessar e baixar, [clique aqui](https://t.me/devfullcycle)
 
 
-# [Desafio 2](https://hub.docker.com/r/llbarbosas/maratona-fullcycle-desafio2)
+# [Desafio 2](https://hub.docker.com/r/llbarbosas/maratona-fullcycle-desafio2) :white_check_mark:
 
 ## API no Nest.js com TypeORM
 
@@ -78,7 +78,7 @@ TYPEORM_MIGRATIONS_DIR=src/migrations
 npm run typeorm migration:create -- -n maratona
 ```
 
-# [Desafio 3](https://hub.docker.com/r/llbarbosas/maratona-fullcycle-desafio3)
+# [Desafio 3](https://hub.docker.com/r/llbarbosas/maratona-fullcycle-desafio3) :white_check_mark:
 
 ## Envio de mensagens usando WebRTC com Peer.js
 
