@@ -1,0 +1,13 @@
+{
+  "name": "maratona-fullcycle-desafio1",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server"
+  },
+  "author": "llbarbosas",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
